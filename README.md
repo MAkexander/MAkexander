@@ -2,7 +2,7 @@
 
 Im interested in `networks` 🌐 and `cyber security` 🔐.
 
-I completed my Abitur with a focus on Computer Science and am currently studying Computer Science at the University of Applied Sciences in Munic.
+I completed my Abitur with a focus on Computer Science and am currently studying Computer Science at [HM](https://hm.edu/) (University of Applied Sciences).
 
 In my second semester, I worked as a student assistant (SHK) at [SecLab](https://seclab.cs.hm.edu/).
 
