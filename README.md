@@ -9,6 +9,7 @@ In my second semester, I worked as a student assistant (SHK) at [SecLab](https:/
 **My recent projects are:**
 - [Bewerbung SecLab](https://github.com/MAkexander/Bewerbung-SecLab-HM)
 - [OverTheWire Bandit](https://github.com/MAkexander/OverTheWire-Bandit.git)
+- [RegistrationWallBlocker](https://github.com/MAkexander/RegistrationWallBlocker)
 <!-- TCP/UDP Server base class implemented with Pythons socket package (coming soon) -->
 
 **Related**
